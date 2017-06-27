@@ -1,0 +1,8 @@
+/home/adampisula/Projects/2016/crypt1/crypt1/obj/Debug/.NETFramework,Version=v4.5.2.AssemblyAttribute.cs
+/home/adampisula/Projects/2016/crypt1/crypt1/bin/Debug/crypt1.exe.config
+/home/adampisula/Projects/2016/crypt1/crypt1/bin/Debug/crypt1.exe.mdb
+/home/adampisula/Projects/2016/crypt1/crypt1/bin/Debug/crypt1.pdb
+/home/adampisula/Projects/2016/crypt1/crypt1/bin/Debug/crypt1.exe
+/home/adampisula/Projects/2016/crypt1/crypt1/obj/Debug/crypt1.exe
+/home/adampisula/Projects/2016/crypt1/crypt1/obj/Debug/crypt1.exe.mdb
+/home/adampisula/Projects/2016/crypt1/crypt1/obj/Debug/crypt1.pdb

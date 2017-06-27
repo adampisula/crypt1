@@ -1,0 +1,6 @@
+c:\users\adam\documents\visual studio 2015\Projects\crypt1\crypt1\bin\Debug\crypt1.exe.config
+c:\users\adam\documents\visual studio 2015\Projects\crypt1\crypt1\bin\Debug\crypt1.exe
+c:\users\adam\documents\visual studio 2015\Projects\crypt1\crypt1\bin\Debug\crypt1.pdb
+c:\users\adam\documents\visual studio 2015\Projects\crypt1\crypt1\obj\Debug\crypt1.csprojResolveAssemblyReference.cache
+c:\users\adam\documents\visual studio 2015\Projects\crypt1\crypt1\obj\Debug\crypt1.exe
+c:\users\adam\documents\visual studio 2015\Projects\crypt1\crypt1\obj\Debug\crypt1.pdb
